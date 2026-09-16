@@ -22,4 +22,3 @@ jobs:
         uses: geode-sdk/build-geode-mod@main
         with:
           android-ndk-version: 26.1.10909125
-          sdk: 'v3.0.0'
