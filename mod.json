@@ -1,5 +1,6 @@
 {
     "geode": "3.0.0",
+    "gd": "2.2074",
     "id": "myname.antistutter_fix",
     "version": "1.0.0",
     "name": "Lag-Free Anti-Stutter",
@@ -12,3 +13,4 @@
         }
     ]
 }
+
